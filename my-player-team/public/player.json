@@ -1,0 +1,82 @@
+[
+  {
+    "playerId": 1,
+    "name": "Virat Kohli",
+    "country": "India",
+    "image": "https://example.com/images/virat_kohli.jpg",
+    "role": "Batsman",
+    "battingType": "Right-hand bat",
+    "bowlingType": "Right-arm medium",
+    "biddingPrice": "₹170,000,000"
+  },
+  {
+    "playerId": 2,
+    "name": "Kane Williamson",
+    "country": "New Zealand",
+    "image": "https://example.com/images/kane_williamson.jpg",
+    "role": "Batsman",
+    "battingType": "Right-hand bat",
+    "bowlingType": "Right-arm offbreak",
+    "biddingPrice": "₹120,000,000"
+  },
+  {
+    "playerId": 3,
+    "name": "Jasprit Bumrah",
+    "country": "India",
+    "image": "https://example.com/images/jasprit_bumrah.jpg",
+    "role": "Bowler",
+    "battingType": "Right-hand bat",
+    "bowlingType": "Right-arm fast",
+    "biddingPrice": "₹140,000,000"
+  },
+  {
+    "playerId": 4,
+    "name": "Ben Stokes",
+    "country": "England",
+    "image": "https://example.com/images/ben_stokes.jpg",
+    "role": "All-rounder",
+    "battingType": "Left-hand bat",
+    "bowlingType": "Right-arm fast-medium",
+    "biddingPrice": "₹150,000,000"
+  },
+  {
+    "playerId": 5,
+    "name": "AB de Villiers",
+    "country": "South Africa",
+    "image": "https://example.com/images/ab_de_villiers.jpg",
+    "role": "Wicketkeeper-Batsman",
+    "battingType": "Right-hand bat",
+    "bowlingType": "None",
+    "biddingPrice": "₹200,000,000"
+  },
+  {
+    "playerId": 6,
+    "name": "Pat Cummins",
+    "country": "Australia",
+    "image": "https://example.com/images/pat_cummins.jpg",
+    "role": "Bowler",
+    "battingType": "Right-hand bat",
+    "bowlingType": "Right-arm fast",
+    "biddingPrice": "₹150,000,000"
+  },
+  {
+    "playerId": 7,
+    "name": "Shakib Al Hasan",
+    "country": "Bangladesh",
+    "image": "https://example.com/images/shakib_al_hasan.jpg",
+    "role": "All-rounder",
+    "battingType": "Left-hand bat",
+    "bowlingType": "Left-arm orthodox",
+    "biddingPrice": "₹130,000,000"
+  },
+  {
+    "playerId": 8,
+    "name": "Andre Russell",
+    "country": "West Indies",
+    "image": "https://example.com/images/andre_russell.jpg",
+    "role": "All-rounder",
+    "battingType": "Right-hand bat",
+    "bowlingType": "Right-arm fast",
+    "biddingPrice": "₹160,000,000"
+  }
+]
